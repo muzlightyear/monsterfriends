@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/monsterfriends/static/css/main.1f94d423.css",
+    "main.js": "/monsterfriends/static/js/main.55889e29.js",
+    "static/js/787.32032a02.chunk.js": "/monsterfriends/static/js/787.32032a02.chunk.js",
+    "static/media/ultraviolentbb_reg.woff": "/monsterfriends/static/media/ultraviolentbb_reg.66812b6f86bd852b8877.woff",
+    "index.html": "/monsterfriends/index.html",
+    "main.1f94d423.css.map": "/monsterfriends/static/css/main.1f94d423.css.map",
+    "main.55889e29.js.map": "/monsterfriends/static/js/main.55889e29.js.map",
+    "787.32032a02.chunk.js.map": "/monsterfriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f94d423.css",
+    "static/js/main.55889e29.js"
+  ]
+}
